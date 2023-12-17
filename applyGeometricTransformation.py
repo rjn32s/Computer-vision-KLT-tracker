@@ -1,8 +1,4 @@
-'''
-  File name: applyGeometricTransformation.py
-  Author: 
-  Date created: 2018-11-05
-'''
+
 
 import cv2
 import numpy as np
