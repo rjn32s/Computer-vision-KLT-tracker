@@ -1,8 +1,4 @@
-'''
-  File name: estimateFeatureTranslation.py
-  Author: 
-  Date created: 2018-11-05
-'''
+
 
 import numpy as np
 from numpy.linalg import inv
