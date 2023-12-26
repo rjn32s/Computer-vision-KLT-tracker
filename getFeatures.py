@@ -1,8 +1,4 @@
-'''
-  File name: getFeatures.py
-  Author: 
-  Date created: 2018-11-04
-'''
+
 
 import cv2
 import numpy as np
